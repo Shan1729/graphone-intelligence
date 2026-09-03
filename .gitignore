@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+logs/
+data/raw/
+data/processed/
+data/evidence/
+.pytest_cache/
+.vscode/
+data/cas/
+data/graphone.db
